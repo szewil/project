@@ -19,3 +19,5 @@ print("The  registered students in Computer Science are")
 print(cs_students)
 file = open("alumini.txt","r")
 print(file.name)
+for line in lines
+print(line)
