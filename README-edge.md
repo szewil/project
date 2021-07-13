@@ -17,5 +17,5 @@ for student in range (2):
      print(" you are not a CS or IS student so please recheck the link sent to your email")
 print("The  registered students in Computer Science are")
 print(cs_students)
-print("your colleagues names and majors")
-print(cs_students + is_students)
+file = open("alumini.txt","r")
+print(file.name)
